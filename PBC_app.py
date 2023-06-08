@@ -5,8 +5,8 @@ Created on Sun Jun  4 11:03:20 2023
 @author: james
 """
 import pandas as pd  # read csv, df manipulation
-import plotly_express as px  # interactive charts
 import streamlit as st  # 🎈 data web app development
+import plotly.express as px  # interactive charts
 
 im="chart_with_upwards_trend"
 st.set_page_config(
