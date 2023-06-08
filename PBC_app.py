@@ -4,14 +4,10 @@ Created on Sun Jun  4 11:03:20 2023
 
 @author: james
 """
-
-import time  # to simulate a real time data, time loop
 from matplotlib import pyplot as plt
-import numpy as np  # np mean, np random
 import pandas as pd  # read csv, df manipulation
 import plotly.express as px  # interactive charts
 import streamlit as st  # 🎈 data web app development
-from PIL import Image
 
 im="chart_with_upwards_trend"
 st.set_page_config(
