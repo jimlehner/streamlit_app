@@ -1,1 +1,0 @@
-This repository is for testing and understanding how to deploy a streamlit app. 
